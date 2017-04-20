@@ -1,0 +1,3 @@
+[2017-04-13 15:06:42] name.WARNING: Foo [] []
+[2017-04-13 11:54:22] name.WARNING: Foo [] []
+[2017-04-13 11:54:54] name.WARNING: Foo [] []

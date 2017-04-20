@@ -1,0 +1,15 @@
+{
+    "name": "brianmartinez/mock-site",
+    "authors": [
+        {
+            "name": "Brian Martinez",
+            "email": "brianmartinez@Brian-Martinezs-iMac.local"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.22",
+        "slim/slim": "2.6.2",
+        "twig/twig": "^1.33",
+        "slim/views": "^0.1.3"
+    }
+}
